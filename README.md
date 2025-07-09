@@ -1,7 +1,9 @@
 # Online Library Web Application
 
 This is a full-stack web application developed to simulate an online library system. Users can browse a collection of books, search for specific titles, borrow books, and manage their borrowed items, along with user authentication and profile management.
+
 Note on Data Initialization: A CSV file is used for book data. It is a requirement to first run the endpoint /import-books for the books to be visible in the system.
+
 Future Enhancements: Currently, security for authentication has not been implemented. This is a planned enhancement for the future, acknowledging its critical importance.
 ---
 
